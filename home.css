@@ -1,0 +1,22 @@
+body {
+    background-image: url("images/4ed9551939c4af7745227b184dce4fc6.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.btn-custom {
+    background-color: #0d47a1;
+    border-radius: 50px;
+    color: white;
+    border: none;
+}
+.btn-custom:hover {
+    background-color: #1565c0;
+}
